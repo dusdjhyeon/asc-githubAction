@@ -1,2 +1,3 @@
 # asc-githubAction
-asc Hands-on (github Action)
+asc Hands-on 
+- Deploy docker image to AWS ECR with github action
